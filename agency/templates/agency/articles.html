@@ -1,0 +1,53 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <div class="container-lg mt-3">
+      <div class="row justify-content-lg-center">
+      <div class="row sticky">
+          <div class="btn-group" role="group" aria-label="Basic example">
+                  <a href="{% url 'articles' %}" class="sticky"><i class="bi bi-arrow-clockwise" style="font-size: x-large">Hard</i></a>
+          </div>
+      </div>
+            {% ifequal user.groups.all.0.name "active" %}
+            {% for exp in exp_list %}
+            <div class="col-lg-7 my-3 p-5">
+                <h4 id="{{ exp.pk }}" style="color: #dae2ff">{{ exp.rom|capfirst }}</h4>
+                <h5 id="{{ exp }}" style="visibility: initial; color: #faf1c1;">{{ exp.eng|capfirst }}</h5>
+            </div>
+<script>
+$(document).ready(function(){
+    $("#{{ exp }}").hide();
+
+  $("#{{ exp.pk }}").click(function(){
+    $("#{{ exp }}").toggle();
+  });
+});
+</script>
+            {% endfor %}
+          {% else %}
+                <div class="row justify-content-md-center text-center">
+                <div class="col-lg-6 p-3">
+                    <h6 class="my-5 py-5 text-warning">You don't have permission to view this post. Please <strong><a href="{% url 'homes' %}" style="color: greenyellow">upgrade</a></strong> your account or try another module for free!</h6>
+                    <p>Cu ajutorul upgrade vei avea acces timp de <strong>1 an</strong> la <strong>1500 de expresii</strong> comune folosite in mod constant in vorbirea de zi cu zi si peste <strong>500 de
+                        cuvinte + pronuntia corecta</strong>!</p>
+                </div>
+                </div>
+
+
+          {% endifequal %}
+
+
+      </div>
+
+
+
+
+
+
+      </div>
+
+    </div>
+
+
+
+{% endblock %}

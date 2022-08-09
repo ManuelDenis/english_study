@@ -1,0 +1,207 @@
+{% load i18n %}
+{% load socialaccount %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Kanit:wght@100;200;300;400;500;600;700;800;900&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Mouse+Memoirs&display=swap" rel="stylesheet">    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+
+  <!-- XDSoft DateTimePicker -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-datetimepicker/2.5.20/jquery.datetimepicker.min.css" integrity="sha256-DOS9W6NR+NFe1fUhEE0PGKY/fubbUCnOfTje2JMDw3Y=" crossorigin="anonymous" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-datetimepicker/2.5.20/jquery.datetimepicker.full.min.js" integrity="sha256-FEqEelWI3WouFOo2VWP/uJfs1y8KJ++FLh2Lbqc8SJk=" crossorigin="anonymous"></script>
+
+    <title>Base Template</title>
+
+</head>
+
+    <style>
+        .socialaccount_provider {
+            color: #ddffdd;
+            font-weight: 300;
+            font-family: Kanit,sans-serif;
+        }
+        .gradient-text {
+            background-image: linear-gradient(45deg, #f3ec78, #af4261);
+        }
+        p, ul, li, label {
+            font-family: Montserrat, sans-serif;
+            color: azure;
+            font-size: large;
+            line-height: 25px;
+        }
+        i {
+            color: #01fcb0;
+            border-radius: 50px;
+            background: black;
+            padding: 0 10px 0 0;
+            font-style: normal;
+            letter-spacing: -2px;
+        }
+        h6 {
+            font-family: Kanit, sans-serif;
+            font-weight: lighter;
+            font-size: x-large;
+            color: #bbccdd;
+        }
+        .sigla {
+            font-stretch: condensed;
+            color: #ffcdfe;
+            font-family: Montserrat, sans-serif;
+            position: relative;
+            top: 3px;
+            font-size: smaller;
+            line-height: 15px;
+        }
+        h4 {
+            font-family: Montserrat, serif;
+            color: #ddffdd;
+            font-size: 25px;
+            font-weight: 300;
+        }
+        h3 {
+            font-family: Kanit, sans-serif;
+            font-weight: 300;
+            color: #dcffea;
+            font-size: 30px;
+        }
+        h2{
+            font-family: Kanit, sans-serif;
+            font-weight: 400;
+            color: #dcffea;
+            font-size: 40px;
+        }
+        h1 {
+            font-family: Kanit, sans-serif;
+            color: #fdf8fb;
+        }
+        a {
+            text-decoration: none;
+        }
+        body {
+            background-color: rgb(45, 82, 114);
+            color: #04c0f8;
+        }
+        .presentation {
+            background-image: linear-gradient(rgba(221, 255, 249, 0.94), #08fce3);
+            border-radius: 25px;
+            color: black;
+            padding: 100px 30px 50px 30px;
+            font-weight: bold;
+            font-family: Montserrat, sans-serif;
+        }
+        .card-pres {
+            border-radius: 25px;
+            font-family: Kanit, sans-serif;
+            background-image: linear-gradient(#ddffdd, #fffccf);
+            color: #444444;
+            font-weight: bolder;
+        }
+        .navbar-toggler-icon {
+            color: azure;
+        }
+        .login {
+            background-color: rgba(255, 127, 80, 0.09);
+        }
+        button {
+            border-style: none;
+            background-color: rgb(2, 166, 108);
+            color: azure;
+            border-radius: 7px;
+            padding: 1px 2px 1px 2px;
+            margin: 10px 2px 10px 0;
+            font-size: 21px;
+        }
+        .button-menu {
+            position: relative;
+            bottom: 10px;
+        }
+        .sticky {
+            position: sticky;
+            top: 25px;
+            font-size: 20px;
+}
+    </style>
+<body>
+
+
+    <nav class="navbar navbar-expand-lg" style="background-color: rgb(24,44,61)">
+   <div class="container-lg">
+       <h6><a class="navbar-nav sigla" href="{% url 'home' %}">English<br> . s t u d y</a></h6>
+
+
+    <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
+      <span class="navbar-toggler-icon"><svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" fill="currentColor" class="bi bi-menu-app-fill" viewBox="0 0 16 16">
+  <path d="M0 1.5A1.5 1.5 0 0 1 1.5 0h2A1.5 1.5 0 0 1 5 1.5v2A1.5 1.5 0 0 1 3.5 5h-2A1.5 1.5 0 0 1 0 3.5v-2zM0 8a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V8zm1 3v2a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2H1zm14-1V8a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1v2h14zM2 8.5a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9a.5.5 0 0 1-.5-.5zm0 4a.5.5 0 0 1 .5-.5h6a.5.5 0 0 1 0 1h-6a.5.5 0 0 1-.5-.5z"/>
+</svg></span>
+    </button>
+    <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+      <div class="offcanvas-header" style="background-color: rgb(24,44,61)" >
+          <h4 class="offcanvas-title" id="offcanvasNavbarLabel"><strong>STUDY</strong></h4>
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+      </div>
+      <div class="offcanvas-body" style="background-color: rgb(24,44,61)">
+          <ul class="navbar-nav p-3">
+              <li class="nav-item">
+            <a style="color: azure" class="nav-link" href="{% url 'article_easy' %}"> | Easy</a>
+          </li>
+              <li class="nav-item">
+            <a style="color: azure" class="nav-link" href="{% url 'articles' %}"> | Hard</a>
+          </li>
+              <li class="nav-item">
+            <a style="color: azure" class="nav-link" href="{% url 'waytosay' %}"> | Way to say</a>
+          </li>
+              <li class="nav-item">
+            <a style="color: azure" class="nav-link" href="{% url 'verbs' %}"> | Words</a>
+          </li>
+          </ul>
+
+        <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+
+
+            {% if user.is_authenticated %}
+          <li>
+            <a style="color: azure; font-size: small" class="nav-link active" aria-current="page" href="#">{{ user.username }}</a>
+          </li>
+
+
+                <form method="post" action="{% url 'account_logout' %}">
+               {% csrf_token %}
+               {% if redirect_field_value %}
+               <input type="hidden" name="{{ redirect_field_name }}" value="{{ redirect_field_value }}"/>
+               {% endif %}
+                <button type="submit" class="button-menu">Sign-out</button>
+                </form>
+
+
+                {% else %}
+                <li>
+                <a style="color: azure" class="nav-link active" aria-current="page" href="{% url 'account_signup' %}">SignUp</a>
+                </li>
+                <li>
+                <a style="color: azure" class="nav-link active" aria-current="page" href="{% url 'account_login' %}">Login</a>
+                </li>
+            {% endif %}
+
+        </ul>
+      </div>
+    </div>
+  </div>
+   </nav>
+
+
+{% block content %}
+
+{% endblock %}
+
+</body>
+</html>

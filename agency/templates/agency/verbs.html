@@ -1,0 +1,37 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <div class="container-lg mt-3">
+      <div class="row justify-content-lg-center">
+      <div class="row sticky">
+          <div class="btn-group" role="group" aria-label="Basic example">
+                  <a href="{% url 'verbs' %}" class="sticky"><i class="bi bi-arrow-clockwise" style="font-size: x-large">Words</i></a>
+          </div>
+      </div>
+
+            {% for exp in exp_list_2 %}
+            <div class="col-lg-7 p-5">
+                <h3 id="{{ exp.pk }}">{{ exp.eng|lower }}</h3>
+                <h5 style="position: relative; bottom: 8px; left: 15px; color: #ffff06">- {{ exp.engdict }} -</h5>
+                <h5 id="{{ exp }}" style="visibility: initial; color: #fc89d1; position: relative; bottom: 12px; left: 20px">{{ exp.rom|lower }}</h5>
+            </div>
+<script>
+$(document).ready(function(){
+    $("#{{ exp }}").hide();
+
+  $("#{{ exp.pk }}").click(function(){
+    $("#{{ exp }}").toggle();
+  });
+});
+</script>
+            {% endfor %}
+
+      </div>
+
+      </div>
+
+    </div>
+
+
+
+{% endblock %}

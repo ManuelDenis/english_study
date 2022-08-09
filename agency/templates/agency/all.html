@@ -1,0 +1,41 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <div class="container-lg mt-3">
+      <div class="row justify-content-lg-center">
+      <div class="row sticky">
+          <div class="btn-group" role="group" aria-label="Basic example">
+                  <a href="{% url 'try' %}" class="sticky"><button><i class="bi bi-arrow-clockwise"></i>Try</button></a>
+                  <a href="{% url 'article_easy' %}" class="sticky"><button><i class="bi bi-arrow-clockwise"></i>Easy</button></a>
+                  <a href="{% url 'articles' %}" class="sticky"><button><i class="bi bi-arrow-clockwise"></i>Hard</button></a>
+                  <a href="{% url 'all' %}" class="sticky"><button style="background-color: tomato"><i class="bi bi-arrow-clockwise"></i>All</button></a>
+          </div>
+      </div>
+      {% ifequal user.groups.all.0.name "active" %}
+            {% for exp in all %}
+            <div class="col-lg-7 my-3">
+                <h4 id="{{ exp.pk }}">{{ exp.romex }}</h4>
+                <h5 id="{{ exp }}" style="visibility: initial; color: azure ">{{ exp.engex }}</h5>
+            </div>
+<script>
+$(document).ready(function(){
+    $("#{{ exp }}").hide();
+
+  $("#{{ exp.pk }}").click(function(){
+    $("#{{ exp }}").toggle();
+  });
+});
+</script>
+            {% endfor %}
+          {% else %}
+          <h5 class="p-4">You don't have permission to view this post. Please upgrade your account!</h5>
+          {% endifequal %}
+      </div>
+
+      </div>
+
+    </div>
+
+
+
+{% endblock %}

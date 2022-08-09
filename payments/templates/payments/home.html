@@ -1,0 +1,34 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<div class="container-lg">
+<div class="row justify-content-md-center">
+    <div class="col-lg-6 p-5 my-5">
+
+
+        <h1>{{ product }}</h1>
+        <h6>acest plan unic iti ofera accesul timp de <strong>1 an</strong> la toate modulele existente pe site</h6>
+                <hr />
+                {% for price in prices %}
+
+                <div>
+                    <h5 class="lead py-3"><small>ron</small>  <strong style="font-size: xx-large">{{ price.price }}</strong></h5>
+                    <form action="{% url 'create-checkout-session' price.id %}" method="POST">
+                        {% csrf_token %}
+                        <button type="submit">Checkout</button>
+                    </form>
+                </div>
+
+                {% endfor %}
+
+
+    </div>
+</div>
+</div>
+
+
+
+
+
+{% endblock %}

@@ -1,0 +1,4618 @@
+[
+   {
+      "model":"agency.WayToSay",
+      "pk":1,
+      "fields":{
+         "rom":"Cum ajung la bibliotecă?",
+         "eng":"How do I get to library?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":2,
+      "fields":{
+         "rom":"Unde este cel mai apropiat oficiu poștal?",
+         "eng":"Where is the nearest post office?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":3,
+      "fields":{
+         "rom":"Poți să-mi spui drumul către Big Hotel?",
+         "eng":"Can you tell me the way to the Big Hotel?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":4,
+      "fields":{
+         "rom":"Suntem pe drumul cel bun spre Londra?",
+         "eng":"Are we on the right road for London?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":5,
+      "fields":{
+         "rom":"Poți să-mi arăți pe hartă, te rog?",
+         "eng":"Can you Show me on the map, please?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":6,
+      "fields":{
+         "rom":"Caut aceasta adresa.",
+         "eng":"I’m looking for this address."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":7,
+      "fields":{
+         "rom":"Cum aflu...?",
+         "eng":"How do I find…?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":8,
+      "fields":{
+         "rom":"Scuză-mă, cum pot merge la...?",
+         "eng":"Excuse me, How can I go to …?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":9,
+      "fields":{
+         "rom":"Ai o hartă?",
+         "eng":"Dou you have a map?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":10,
+      "fields":{
+         "rom":"Esti de prin zona?",
+         "eng":"Are you from around here?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":11,
+      "fields":{
+         "rom":"Unde este …?",
+         "eng":"Where is …?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":12,
+      "fields":{
+         "rom":"Care este cel mai bun mod de a...?",
+         "eng":"Which the best way to …?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":13,
+      "fields":{
+         "rom":"Scuză-mă, m-am pierdut, cum ajung la...?",
+         "eng":"Pardon me, I’m lost, how do I get to …?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":14,
+      "fields":{
+         "rom":"Caut …",
+         "eng":"I’m looking for …"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":15,
+      "fields":{
+         "rom":"Mă poți îndruma către...?",
+         "eng":"Could you direct me to …?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":16,
+      "fields":{
+         "rom":"Pot să cer ajutor? Trebuie să ajung la …?",
+         "eng":"May I ask for some help? I need to get to …?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":17,
+      "fields":{
+         "rom":"Cum putem ajunge la High Park?",
+         "eng":"How can we get to High Park?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":18,
+      "fields":{
+         "rom":"Este departe?",
+         "eng":"Is it far?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":19,
+      "fields":{
+         "rom":"Scuză-mă, poți să-mi spui cum să ajung la stația de autobuz?",
+         "eng":"Excuse me, could you tell me how to get to the bus station?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":20,
+      "fields":{
+         "rom":"Dute sus…",
+         "eng":"Go up…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":21,
+      "fields":{
+         "rom":"Este pe colț",
+         "eng":"It’s on the corner"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":22,
+      "fields":{
+         "rom":"Mergi drept înainte",
+         "eng":"Go straight ahead"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":23,
+      "fields":{
+         "rom":"Cruce…",
+         "eng":"Cross…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":24,
+      "fields":{
+         "rom":"Mergi cu…",
+         "eng":"Go along…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":25,
+      "fields":{
+         "rom":"Vireaza la stanga",
+         "eng":"Turn left"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":26,
+      "fields":{
+         "rom":"Obligatoriu Dreapta",
+         "eng":"Turn right"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":27,
+      "fields":{
+         "rom":"Virați la stânga în… Street",
+         "eng":"Turn left into … Street"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":28,
+      "fields":{
+         "rom":"Este în mijlocul blocului",
+         "eng":"It’s in the middle of the block"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":29,
+      "fields":{
+         "rom":"Vei trece pe lângă un supermarket pe stânga ta",
+         "eng":"You will pass a süpermarket on your left"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":30,
+      "fields":{
+         "rom":"Luați acest drum",
+         "eng":"Take this road"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":31,
+      "fields":{
+         "rom":"Virați la dreapta la răscruce",
+         "eng":"Turn right at the crossroads"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":32,
+      "fields":{
+         "rom":"E la stânga ta",
+         "eng":"It’s on your left"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":33,
+      "fields":{
+         "rom":"Este în dreapta ta",
+         "eng":"It’s on your right"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":34,
+      "fields":{
+         "rom":"Este la aproximativ 100 de metri de aici",
+         "eng":"It’s about 100 meters from here"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":35,
+      "fields":{
+         "rom":"Luați primul drum pe dreapta",
+         "eng":"Take the first road on the right"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":36,
+      "fields":{
+         "rom":"Luați al doilea drum pe stânga",
+         "eng":"Take the second road on the left"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":37,
+      "fields":{
+         "rom":"Este langa…",
+         "eng":"It’s next to…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":38,
+      "fields":{
+         "rom":"Corpul meu spune da, dar inima mea spune nu.",
+         "eng":"My body says yes, but my heart say no."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":39,
+      "fields":{
+         "rom":"nu",
+         "eng":"Nope"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":40,
+      "fields":{
+         "rom":"Poate altă dată.",
+         "eng":"Maybe another time."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":41,
+      "fields":{
+         "rom":"Nu accept nimic altceva în acest moment.",
+         "eng":"I am not accepting anything else at this time."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":42,
+      "fields":{
+         "rom":"Apreciem oferta, dar...",
+         "eng":"We appreciate the offer, but …"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":43,
+      "fields":{
+         "rom":"Nu prea sunt interesat de asta, dar mulțumesc pentru întrebare!",
+         "eng":"I’m not really into it, but thanks for asking!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":44,
+      "fields":{
+         "rom":"Prefer să nu nu, mulțumesc.",
+         "eng":"I’d rather not, thanks."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":45,
+      "fields":{
+         "rom":"Acum,",
+         "eng":"Nah"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":46,
+      "fields":{
+         "rom":"Asta nu va funcționa pentru mine.",
+         "eng":"That’s not going to work for me."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":47,
+      "fields":{
+         "rom":"Sună distractiv, dar nu sunt disponibil.",
+         "eng":"Sounds fun, but I’m not available."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":48,
+      "fields":{
+         "rom":"Vreau, dar nu pot.",
+         "eng":"I want to, but I’m unable to."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":49,
+      "fields":{
+         "rom":"Pur și simplu nu am asta de dat acum.",
+         "eng":"I just don’t have that to give right now."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":50,
+      "fields":{
+         "rom":"Nu pot să mă angajez în acest moment.",
+         "eng":"I’m not able to commit to that right now."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":51,
+      "fields":{
+         "rom":"Nu este o idee bună pentru mine.",
+         "eng":"It is not a good idea for me."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":52,
+      "fields":{
+         "rom":"Scuze, dar nu pot.",
+         "eng":"Apologies, but I can’t make it."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":53,
+      "fields":{
+         "rom":"Tu aduci bucurie vieții mele.",
+         "eng":"You bring joy to my life."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":54,
+      "fields":{
+         "rom":"Tot ce fac este să mă gândesc la tine.",
+         "eng":"All I do is think of you."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":55,
+      "fields":{
+         "rom":"Îmi place să fiu în preajma ta.",
+         "eng":"I love being around you."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":56,
+      "fields":{
+         "rom":"sunt infatuat de tine.",
+         "eng":"I’m infatuated with you."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":57,
+      "fields":{
+         "rom":"Mi-ai trecut prin cap.",
+         "eng":"You crossed my mind."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":58,
+      "fields":{
+         "rom":"Te apreciez.",
+         "eng":"I appreciate you."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":59,
+      "fields":{
+         "rom":"Mă simt trist fără tine.",
+         "eng":"I feel sad without you."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":60,
+      "fields":{
+         "rom":"Ma inspiri.",
+         "eng":"You inspire me."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":61,
+      "fields":{
+         "rom":"Tu ești motivul meu de viață.",
+         "eng":"You are my reason for living."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":62,
+      "fields":{
+         "rom":"Îmi ocupi gândurile.",
+         "eng":"You occupy my thoughts."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":63,
+      "fields":{
+         "rom":"Mi-e dor de râsul tău.",
+         "eng":"I miss your laugh."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":64,
+      "fields":{
+         "rom":"Te ador.",
+         "eng":"I adore you."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":65,
+      "fields":{
+         "rom":"Tu esti totul pentru mine.",
+         "eng":"You’re everything to me."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":66,
+      "fields":{
+         "rom":"Tu ești lumina vieții mele.",
+         "eng":"You’re the light of my life."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":67,
+      "fields":{
+         "rom":"Sunt cap peste tocuri pentru tine.",
+         "eng":"I’m head over heels for you."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":68,
+      "fields":{
+         "rom":"Vreau o viață întreagă cu tine.",
+         "eng":"I want a lifetime with you."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":69,
+      "fields":{
+         "rom":"Aveti rezervare?",
+         "eng":"Do you have a reservation?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":70,
+      "fields":{
+         "rom":"Ai nevoie de ajutor cu bagajele?",
+         "eng":"Do you need help with your bags?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":71,
+      "fields":{
+         "rom":"Mai există ceva cu care te putem ajuta?",
+         "eng":"Is there anything else we can help you with?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":72,
+      "fields":{
+         "rom":"Câți invitați sunt cu tine?",
+         "eng":"How many guests are with you?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":73,
+      "fields":{
+         "rom":"Camera ta este la etajul doi.",
+         "eng":"Your room is on the second floor."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":74,
+      "fields":{
+         "rom":"Vă mulțumim că sunteți alături de noi!",
+         "eng":"Thank you for staying with us!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":75,
+      "fields":{
+         "rom":"Aș dori să rezerv o cameră, vă rog.",
+         "eng":"I’d like to book a room, please."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":76,
+      "fields":{
+         "rom":"Ne-a plăcut foarte mult șederea noastră.",
+         "eng":"We really enjoyed our stay."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":77,
+      "fields":{
+         "rom":"Camera este prea zgomotoasă.",
+         "eng":"The room is too noisy."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":78,
+      "fields":{
+         "rom":"Pot să văd camera, te rog?",
+         "eng":"Can I see the room, please?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":79,
+      "fields":{
+         "rom":"Vă rugăm să vă semnați numele aici.",
+         "eng":"Please sign your name here."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":80,
+      "fields":{
+         "rom":"Mai multe prosoape proaspete sunt disponibile la recepție.",
+         "eng":"More fresh towels are available at the front desk."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":81,
+      "fields":{
+         "rom":"Aș dori o cameră single, vă rog.",
+         "eng":"I’d like a single room, please."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":82,
+      "fields":{
+         "rom":"Ma poate ajuta cineva cu bagajele mele?",
+         "eng":"Can someone help me with my bags?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":83,
+      "fields":{
+         "rom":"Când pot face check-in?",
+         "eng":"When I can check-in?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":84,
+      "fields":{
+         "rom":"Ai nevoie de un apel de trezire?",
+         "eng":"Do you need a wake-up call?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":85,
+      "fields":{
+         "rom":"De exemplu",
+         "eng":"For instance"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":86,
+      "fields":{
+         "rom":"În plus",
+         "eng":"Additionally"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":87,
+      "fields":{
+         "rom":"De asemenea",
+         "eng":"Likewise"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":88,
+      "fields":{
+         "rom":"Observați bine",
+         "eng":"Note well"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":89,
+      "fields":{
+         "rom":"Ca exemplu fiind…",
+         "eng":"As an example being…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":90,
+      "fields":{
+         "rom":"În special",
+         "eng":"In particular"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":91,
+      "fields":{
+         "rom":"Sa spunem…",
+         "eng":"Let’s say…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":92,
+      "fields":{
+         "rom":"Aceasta include",
+         "eng":"This includes"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":93,
+      "fields":{
+         "rom":"Așa cum se vede în…",
+         "eng":"As seen in…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":94,
+      "fields":{
+         "rom":"De exemplu.",
+         "eng":"E.g."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":95,
+      "fields":{
+         "rom":"Un exemplu este…",
+         "eng":"One example is…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":96,
+      "fields":{
+         "rom":"Ca",
+         "eng":"Such as"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":97,
+      "fields":{
+         "rom":"Pe lângă",
+         "eng":"In addition to"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":98,
+      "fields":{
+         "rom":"Cu titlu de ilustrare",
+         "eng":"By way of illustration"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":99,
+      "fields":{
+         "rom":"Într-un caz similar",
+         "eng":"In a similar case"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":100,
+      "fields":{
+         "rom":"Mai ales",
+         "eng":"Especially"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":101,
+      "fields":{
+         "rom":"Daca te uiti la...",
+         "eng":"If you look at…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":102,
+      "fields":{
+         "rom":"Exemplele includ…",
+         "eng":"Examples include…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":103,
+      "fields":{
+         "rom":"Ca un caz concret…",
+         "eng":"As a case in point…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":104,
+      "fields":{
+         "rom":"Un exemplu fiind…",
+         "eng":"An example being…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":105,
+      "fields":{
+         "rom":"Acest lucru se poate vedea când",
+         "eng":"This can be seen when"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":106,
+      "fields":{
+         "rom":"Acestea includ…",
+         "eng":"These include…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":107,
+      "fields":{
+         "rom":"Ca exemplu",
+         "eng":"As an example"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":108,
+      "fields":{
+         "rom":"În special",
+         "eng":"Particularly"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":109,
+      "fields":{
+         "rom":"Ca",
+         "eng":"Like"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":110,
+      "fields":{
+         "rom":"Ma poti ajuta te rog?",
+         "eng":"Can you help me, please?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":111,
+      "fields":{
+         "rom":"Pot să ies?",
+         "eng":"Can I go out?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":112,
+      "fields":{
+         "rom":"Pot să răspund la întrebare?",
+         "eng":"Can I answer the question?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":113,
+      "fields":{
+         "rom":"Pot stinge luminile?",
+         "eng":"Can I switch off the lights?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":114,
+      "fields":{
+         "rom":"Profesor, te rog poți repeta din nou?",
+         "eng":"Teacher, please can you repeat again?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":115,
+      "fields":{
+         "rom":"Pot să deschid geamul?",
+         "eng":"Can I open the window?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":116,
+      "fields":{
+         "rom":"Ne putem împacheta lucrurile acum?",
+         "eng":"Can we pack our things now?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":117,
+      "fields":{
+         "rom":"Pe ce pagina suntem?",
+         "eng":"What page are we on?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":118,
+      "fields":{
+         "rom":"Eu sunt gata. Pot să-l încep?",
+         "eng":"I am ready. May I start it?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":119,
+      "fields":{
+         "rom":"Care este tema pentru acasa?",
+         "eng":"What is the homework?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":120,
+      "fields":{
+         "rom":"Trebuie să scriem asta?",
+         "eng":"Do we have to write this down?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":121,
+      "fields":{
+         "rom":"Îmi pare rău pentru întârziere.",
+         "eng":"Sorry, for being late."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":122,
+      "fields":{
+         "rom":"Pot deschide/închide fereastra?",
+         "eng":"May I open / close the window?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":123,
+      "fields":{
+         "rom":"Pot să merg la bord?",
+         "eng":"Can I go to the board?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":124,
+      "fields":{
+         "rom":"Pot intra?",
+         "eng":"Can I come in?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":125,
+      "fields":{
+         "rom":"Pot ridica jaluzelele?",
+         "eng":"Can I pull up the blinds?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":126,
+      "fields":{
+         "rom":"Pot să trag jaluzelele?",
+         "eng":"Can I pulldown the blinds?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":127,
+      "fields":{
+         "rom":"Pot să mă alătur clasei/grupului?",
+         "eng":"May I join the class/group?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":128,
+      "fields":{
+         "rom":"Mai poți explica o dată, te rog?",
+         "eng":"Can you explain it once more, please?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":129,
+      "fields":{
+         "rom":"Pot să ies, te rog?",
+         "eng":"May I go out please?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":130,
+      "fields":{
+         "rom":"Este corect?",
+         "eng":"Is this right?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":131,
+      "fields":{
+         "rom":"Este corect?",
+         "eng":"Is this correct?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":132,
+      "fields":{
+         "rom":"Îmi pare rău. Nu am auzit.",
+         "eng":"I am sorry. I did not hear."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":133,
+      "fields":{
+         "rom":"Poți vorbi mai tare, te rog?",
+         "eng":"Can you speak louder, please?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":134,
+      "fields":{
+         "rom":"Care carte?",
+         "eng":"Which book?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":135,
+      "fields":{
+         "rom":"Poți să explici asta din nou?",
+         "eng":"Can you explain that again?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":136,
+      "fields":{
+         "rom":"Când este examenul?",
+         "eng":"Whe is the exam?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":137,
+      "fields":{
+         "rom":"Pentru cand sunt temele?",
+         "eng":"When is the homework for?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":138,
+      "fields":{
+         "rom":"Am făcut asta.",
+         "eng":"I have done this."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":139,
+      "fields":{
+         "rom":"Pot sa merg la toaleta?",
+         "eng":"Can I go to the toilet?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":140,
+      "fields":{
+         "rom":"Ma bucur sa te vad",
+         "eng":"Good to see you"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":141,
+      "fields":{
+         "rom":"Hei, boo",
+         "eng":"Hey, boo"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":142,
+      "fields":{
+         "rom":"Bună seara",
+         "eng":"Good evening"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":143,
+      "fields":{
+         "rom":"Buna dimineata",
+         "eng":"Good morning"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":144,
+      "fields":{
+         "rom":"Buna ziua",
+         "eng":"Hello"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":145,
+      "fields":{
+         "rom":"Hei",
+         "eng":"Hey"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":146,
+      "fields":{
+         "rom":"Cu te simți azi?",
+         "eng":"How are you feeling today?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":147,
+      "fields":{
+         "rom":"Buna ziua",
+         "eng":"Bonjour"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":148,
+      "fields":{
+         "rom":"Salutare?",
+         "eng":"Howdy?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":149,
+      "fields":{
+         "rom":"Cum stau lucrurile?",
+         "eng":"How are things?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":150,
+      "fields":{
+         "rom":"Ce ai mai făcut între timp?",
+         "eng":"What have you been up to?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":151,
+      "fields":{
+         "rom":"Uite ce a târât pisica înăuntru!",
+         "eng":"Look what the cat dragged in!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":152,
+      "fields":{
+         "rom":"Imi pare bine de cunostinta",
+         "eng":"It is nice to meet you"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":153,
+      "fields":{
+         "rom":"Ce se întâmplă?",
+         "eng":"What’s going on?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":154,
+      "fields":{
+         "rom":"Buna ziua.",
+         "eng":"Good afternoon."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":155,
+      "fields":{
+         "rom":"Cum ai fost?",
+         "eng":"How have you been?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":156,
+      "fields":{
+         "rom":"Ce faci?",
+         "eng":"What’s up?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":157,
+      "fields":{
+         "rom":"Salut",
+         "eng":"Greeting"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":158,
+      "fields":{
+         "rom":"Stai in siguranta",
+         "eng":"Stay safe"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":159,
+      "fields":{
+         "rom":"Bine ati venit",
+         "eng":"Welcome"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":160,
+      "fields":{
+         "rom":"Ai o dimensiune mai mica?",
+         "eng":"Do you have a smaller size?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":161,
+      "fields":{
+         "rom":"Unde este vestiarul?",
+         "eng":"Where is the changing room?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":162,
+      "fields":{
+         "rom":"Știi unde aș mai putea încerca?",
+         "eng":"Do you know where else I could try?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":163,
+      "fields":{
+         "rom":"Aveți acest articol în stoc?",
+         "eng":"Do you have this item in stock?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":164,
+      "fields":{
+         "rom":"Oferiți o reducere de numerar?",
+         "eng":"Do you offer a cash discount?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":165,
+      "fields":{
+         "rom":"Ai vreo căpșuni?",
+         "eng":"Do you have any strawberry?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":166,
+      "fields":{
+         "rom":"Aveți o politică de rambursare?",
+         "eng":"Do you have a refund policy?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":167,
+      "fields":{
+         "rom":"Cât de mult costă aceasta?",
+         "eng":"How much is this?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":168,
+      "fields":{
+         "rom":"Ai o dimensiune mai mare?",
+         "eng":"Do you have a bigger size?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":169,
+      "fields":{
+         "rom":"Vindeți legume organice?",
+         "eng":"Do you sell organic vegetables?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":170,
+      "fields":{
+         "rom":"Ma poti ajuta, te rog?",
+         "eng":"Could you help me please?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":171,
+      "fields":{
+         "rom":"Unde îmi pot cântări alimentele?",
+         "eng":"Where can I weight my groceries?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":172,
+      "fields":{
+         "rom":"Vine cu garanție/garanție?",
+         "eng":"Does it come with a guarantee/warranty?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":173,
+      "fields":{
+         "rom":"Caut o geantă din piele.",
+         "eng":"I’m looking for a leather handbag."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":174,
+      "fields":{
+         "rom":"Ai avea asta într-o altă culoare?",
+         "eng":"Would you have this in another color?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":175,
+      "fields":{
+         "rom":"Aveți ceva mai puțin scump (scump)?",
+         "eng":"Do you have something less pricey (expensive)?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":176,
+      "fields":{
+         "rom":"Unde este cabina de probă?",
+         "eng":"Where is the fitting room?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":177,
+      "fields":{
+         "rom":"Te vei descurca de minune.",
+         "eng":"You’ll do great."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":178,
+      "fields":{
+         "rom":"Omorâți-i!",
+         "eng":"Knock them dead!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":179,
+      "fields":{
+         "rom":"Vei fi uimitor!",
+         "eng":"You are going to be amazing!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":180,
+      "fields":{
+         "rom":"Dumnezeule",
+         "eng":"Godspeed"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":181,
+      "fields":{
+         "rom":"Vă doresc toate cele bune!",
+         "eng":"Wishing you all the best!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":182,
+      "fields":{
+         "rom":"Vă doresc noroc!",
+         "eng":"I wish you luck!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":183,
+      "fields":{
+         "rom":"Cele mai bune gânduri.",
+         "eng":"Best wishes."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":184,
+      "fields":{
+         "rom":"sper ca lucrurile sa iasa bine..",
+         "eng":"I hope things will turn out fine.."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":185,
+      "fields":{
+         "rom":"Aruncă-le în aer!",
+         "eng":"Blow them away!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":186,
+      "fields":{
+         "rom":"Te vei descurca de minune!",
+         "eng":"You’ll do great!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":187,
+      "fields":{
+         "rom":"Vă doresc mult noroc!",
+         "eng":"Wishing you lots of luck!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":188,
+      "fields":{
+         "rom":"Degete încrucișate!",
+         "eng":"Fingers crossed!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":189,
+      "fields":{
+         "rom":"Vă doresc mult noroc!",
+         "eng":"Wishing you a lot of luck!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":190,
+      "fields":{
+         "rom":"Ai fost făcut pentru asta!",
+         "eng":"You were made for this!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":191,
+      "fields":{
+         "rom":"Sper că lucrurile vor merge bine.",
+         "eng":"I hope things will work out all right."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":192,
+      "fields":{
+         "rom":"Fie ca forța să fie cu tine.",
+         "eng":"May the force be with you."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":193,
+      "fields":{
+         "rom":"Mult mai bine!",
+         "eng":"Much better!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":194,
+      "fields":{
+         "rom":"Cu siguranță ai făcut bine astăzi.",
+         "eng":"You certainly did well today."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":195,
+      "fields":{
+         "rom":"Genul ăsta de muncă mă face fericit.",
+         "eng":"That kind of work makes me happy."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":196,
+      "fields":{
+         "rom":"Mult de mers.",
+         "eng":"Way to go."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":197,
+      "fields":{
+         "rom":"Asta e.",
+         "eng":"That’s it."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":198,
+      "fields":{
+         "rom":"Minunat!",
+         "eng":"Marvelous!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":199,
+      "fields":{
+         "rom":"Rece!",
+         "eng":"Cool!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":200,
+      "fields":{
+         "rom":"Superb!",
+         "eng":"Tremendous!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":201,
+      "fields":{
+         "rom":"Fantastic!",
+         "eng":"Fantastic!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":202,
+      "fields":{
+         "rom":"Excelent!",
+         "eng":"Excellent!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":203,
+      "fields":{
+         "rom":"Super-Duper!",
+         "eng":"Super-Duper!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":204,
+      "fields":{
+         "rom":"In afara razei vizuale.",
+         "eng":"Out of sight."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":205,
+      "fields":{
+         "rom":"Acum asta numesc o treabă bună.",
+         "eng":"Now that’s what I call a fine job."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":206,
+      "fields":{
+         "rom":"Nu aș fi putut să o fac mai bine.",
+         "eng":"Couldn’t have done it better myself."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":207,
+      "fields":{
+         "rom":"Continuați să lucrați la el; te imbunatatesti.",
+         "eng":"Keep working on it; you’re improving."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":208,
+      "fields":{
+         "rom":"Este o plăcere să predai când",
+         "eng":"It’s such a pleasure to teach when"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":209,
+      "fields":{
+         "rom":"Lucrezi asa!",
+         "eng":"You work like that!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":210,
+      "fields":{
+         "rom":"Cred că faci ceea ce trebuie.",
+         "eng":"I think you’re doing the right thing."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":211,
+      "fields":{
+         "rom":"Teribil!",
+         "eng":"Terrific!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":212,
+      "fields":{
+         "rom":"Înțeleg ce vrei să spui…",
+         "eng":"I see what you mean…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":213,
+      "fields":{
+         "rom":"La fel şi eu.",
+         "eng":"So do I."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":214,
+      "fields":{
+         "rom":"Si eu simt asa.",
+         "eng":"I fee that way too."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":215,
+      "fields":{
+         "rom":"Categoric.",
+         "eng":"Definitely."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":216,
+      "fields":{
+         "rom":"Sunt de acord cu tine.",
+         "eng":"I agree with you."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":217,
+      "fields":{
+         "rom":"Da",
+         "eng":"Yup"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":218,
+      "fields":{
+         "rom":"Da",
+         "eng":"Yep"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":219,
+      "fields":{
+         "rom":"Absolut!",
+         "eng":"Absolutely!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":220,
+      "fields":{
+         "rom":"Ai dreptate.",
+         "eng":"You’re absolutely right."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":221,
+      "fields":{
+         "rom":"Exact!",
+         "eng":"Exactly!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":222,
+      "fields":{
+         "rom":"Suntem de o minte.",
+         "eng":"We are of one mind."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":223,
+      "fields":{
+         "rom":"Se poate spune că din nou.",
+         "eng":"You can say that again."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":224,
+      "fields":{
+         "rom":"Nu aș putea fi mai de acord cu tine, prietene.",
+         "eng":"I could not agree with you more my friend."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":225,
+      "fields":{
+         "rom":"Ai lovit cuiul pe cap.",
+         "eng":"You’ve hit the nail on the head."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":226,
+      "fields":{
+         "rom":"Te-ai prins frate.",
+         "eng":"You got it dude."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":227,
+      "fields":{
+         "rom":"Gândurile noastre sunt absolut paralele.",
+         "eng":"Our thoughts are absolutely parallel."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":228,
+      "fields":{
+         "rom":"Ai atâta dreptate.",
+         "eng":"You are so right."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":229,
+      "fields":{
+         "rom":"nu ar fi trebuit…",
+         "eng":"I shouldn’t have…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":230,
+      "fields":{
+         "rom":"Scuzati-ma pentru…",
+         "eng":"Excuse me for…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":231,
+      "fields":{
+         "rom":"Este vina mea.",
+         "eng":"It’s all my fault."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":232,
+      "fields":{
+         "rom":"Vă rog, acceptați scuzele mele pentru...",
+         "eng":"Please, accept my apologies for…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":233,
+      "fields":{
+         "rom":"Îmi cer scuze pentru…",
+         "eng":"I apologize for…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":234,
+      "fields":{
+         "rom":"Te rog, iartă-mă pentru…",
+         "eng":"Please, forgive me for my…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":235,
+      "fields":{
+         "rom":"Trebuie să-mi cer scuze pentru...",
+         "eng":"I must apologize for…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":236,
+      "fields":{
+         "rom":"Ne pare atât de rău",
+         "eng":"Ever so sory"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":237,
+      "fields":{
+         "rom":"E greșeala mea.",
+         "eng":"That’s my fault."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":238,
+      "fields":{
+         "rom":"Te rog nu fi supărat pe mine.",
+         "eng":"Please don’t be mad at me."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":239,
+      "fields":{
+         "rom":"Ce prost necugetat din partea mea.",
+         "eng":"How stupid thoughtless of me."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":240,
+      "fields":{
+         "rom":"Vă rog, acceptați scuzele mele pentru...",
+         "eng":"Please, accept my apologies for…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":241,
+      "fields":{
+         "rom":"Chiar îmi este rușine de ceea ce am făcut.",
+         "eng":"I’m really ashamed of what I did."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":242,
+      "fields":{
+         "rom":"Îmi pare foarte rău pentru ceea ce am spus.",
+         "eng":"I’m really sorry about what I said."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":243,
+      "fields":{
+         "rom":"A fost nepoliticos din partea mea. Imi pare rau.",
+         "eng":"That was rude of me. I’m sorry."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":244,
+      "fields":{
+         "rom":"Sper că mă vei ierta pentru...",
+         "eng":"I hope you’ll forgive me for…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":245,
+      "fields":{
+         "rom":"Îmi cer scuze pentru…",
+         "eng":"I do apologize for…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":246,
+      "fields":{
+         "rom":"Dormi cu îngerii",
+         "eng":"Sleep with angels"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":247,
+      "fields":{
+         "rom":"Dormiți bine, nu lăsați ploșnițele de pat să muște",
+         "eng":"Sleep tight, don’t let the bed bugs bite"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":248,
+      "fields":{
+         "rom":"Să începem să numărăm oile",
+         "eng":"Let’s start counting the sheeps"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":249,
+      "fields":{
+         "rom":"Mâine nu este suficient de curând. Să ne pregătim.",
+         "eng":"Tomorrow is not soon enough. Lets prepare."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":250,
+      "fields":{
+         "rom":"E timpul să visezi",
+         "eng":"Time to dream"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":251,
+      "fields":{
+         "rom":"Noapte noapte",
+         "eng":"Night night"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":252,
+      "fields":{
+         "rom":"Firele",
+         "eng":"Nite-nite"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":253,
+      "fields":{
+         "rom":"Somn usor",
+         "eng":"Have a good sleep"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":254,
+      "fields":{
+         "rom":"Sa ma visezi",
+         "eng":"Dream of me"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":255,
+      "fields":{
+         "rom":"Pana maine",
+         "eng":"Until tomorrow"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":256,
+      "fields":{
+         "rom":"Timp de odihnă pentru înflorire",
+         "eng":"Rest time for blossoms"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":257,
+      "fields":{
+         "rom":"Nu lăsați ploșnițele de pat să muște!",
+         "eng":"Don’t let the bed bugs bite!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":258,
+      "fields":{
+         "rom":"Ne vedem în țara viselor",
+         "eng":"I’ll see you in dreamland"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":259,
+      "fields":{
+         "rom":"Aveți vise de mare",
+         "eng":"Have sea dreams"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":260,
+      "fields":{
+         "rom":"Te respect.",
+         "eng":"I respect you."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":261,
+      "fields":{
+         "rom":"Tu ești motivul meu de viață.",
+         "eng":"You are my reason for living."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":262,
+      "fields":{
+         "rom":"Ești importantă.",
+         "eng":"You are precious."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":263,
+      "fields":{
+         "rom":"Mă completezi.",
+         "eng":"You complete me."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":264,
+      "fields":{
+         "rom":"Esti iubirea vietii mele.",
+         "eng":"You’re the love of my life."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":265,
+      "fields":{
+         "rom":"Nu mă pot opri să mă gândesc la tine.",
+         "eng":"I can’t stop thinking about you."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":266,
+      "fields":{
+         "rom":"Mi-am pierdut inima pentru tine.",
+         "eng":"I lost my heart on you."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":267,
+      "fields":{
+         "rom":"Ma inspiri.",
+         "eng":"You inspire me."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":268,
+      "fields":{
+         "rom":"te închin.",
+         "eng":"I worship you."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":269,
+      "fields":{
+         "rom":"Tu ești totul pentru mine.",
+         "eng":"You are my everything."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":270,
+      "fields":{
+         "rom":"Am nevoie de tine.",
+         "eng":"I need you."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":271,
+      "fields":{
+         "rom":"Te-am visat aseară.",
+         "eng":"I dreamt about you last night."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":272,
+      "fields":{
+         "rom":"Aduci fericire în zilele ploioase.",
+         "eng":"You bring happiness to rainly days."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":273,
+      "fields":{
+         "rom":"Te-am prins sub pielea mea.",
+         "eng":"I’ve got you under my skin."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":274,
+      "fields":{
+         "rom":"Tu ești motivul pentru care sunt în viață.",
+         "eng":"You are the reason I’m alive."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":275,
+      "fields":{
+         "rom":"Tu ești dragul meu.",
+         "eng":"You are my dear."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":276,
+      "fields":{
+         "rom":"Sunt afectuos pentru tine.",
+         "eng":"I’m affectionate for you."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":277,
+      "fields":{
+         "rom":"Sunt sălbatic pentru tine.",
+         "eng":"I’m wild about you."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":278,
+      "fields":{
+         "rom":"Tu ești tot ce văd.",
+         "eng":"You’re all I see."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":279,
+      "fields":{
+         "rom":"Te vreau.",
+         "eng":"I want you."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":280,
+      "fields":{
+         "rom":"Tu ești motivul meu de viață.",
+         "eng":"You are my reason for living."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":281,
+      "fields":{
+         "rom":"Mi-am pierdut inima pentru tine.",
+         "eng":"I lost my heart on you."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":282,
+      "fields":{
+         "rom":"Mă completezi.",
+         "eng":"You complete me."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":283,
+      "fields":{
+         "rom":"acum că",
+         "eng":"now that"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":284,
+      "fields":{
+         "rom":"pe motiv că",
+         "eng":"on the grounds that"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":285,
+      "fields":{
+         "rom":"peste",
+         "eng":"over"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":286,
+      "fields":{
+         "rom":"datorită",
+         "eng":"owing to"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":287,
+      "fields":{
+         "rom":"văzând",
+         "eng":"seeing"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":288,
+      "fields":{
+         "rom":"pe măsură ce merg lucrurile",
+         "eng":"as things go"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":289,
+      "fields":{
+         "rom":"fiind",
+         "eng":"being"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":290,
+      "fields":{
+         "rom":"din cauza",
+         "eng":"by cause of"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":291,
+      "fields":{
+         "rom":"din cauza",
+         "eng":"by reason of"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":292,
+      "fields":{
+         "rom":"în virtutea",
+         "eng":"by virtue of"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":293,
+      "fields":{
+         "rom":"luand in considerare",
+         "eng":"considering"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":294,
+      "fields":{
+         "rom":"de cand",
+         "eng":"since"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":295,
+      "fields":{
+         "rom":"mulțumită",
+         "eng":"thanks to"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":296,
+      "fields":{
+         "rom":"prin",
+         "eng":"through"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":297,
+      "fields":{
+         "rom":"întrucât",
+         "eng":"whereas"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":298,
+      "fields":{
+         "rom":"pentru motivul că",
+         "eng":"for the reason that"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":299,
+      "fields":{
+         "rom":"de dragul",
+         "eng":"for the sake of"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":300,
+      "fields":{
+         "rom":"întrucât",
+         "eng":"in as much as"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":301,
+      "fields":{
+         "rom":"în numele",
+         "eng":"in behalf of"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":302,
+      "fields":{
+         "rom":"în aia",
+         "eng":"in that"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":303,
+      "fields":{
+         "rom":"in interesul",
+         "eng":"in the interest of"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":304,
+      "fields":{
+         "rom":"Asta necesită mai întâi un pic de cercetare.",
+         "eng":"That requires a bit more research first."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":305,
+      "fields":{
+         "rom":"Ma bate.",
+         "eng":"Beats me."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":306,
+      "fields":{
+         "rom":"nu stiu nimic despre…",
+         "eng":"I don’t know anything about …"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":307,
+      "fields":{
+         "rom":"Voi investiga asta mai departe.",
+         "eng":"I’m going to investigate that further."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":308,
+      "fields":{
+         "rom":"Mă depășește.",
+         "eng":"It’s beyond me."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":309,
+      "fields":{
+         "rom":"Este un mister pentru mine.",
+         "eng":"It’s a mystery to me."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":310,
+      "fields":{
+         "rom":"Este o întrebare bună, dar nu știu.",
+         "eng":"That’s a good question, but I don’t know."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":311,
+      "fields":{
+         "rom":"Nu sunt persoana cea mai potrivită pentru a răspunde la asta.",
+         "eng":"I’m not the best person to answer that."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":312,
+      "fields":{
+         "rom":"E o întrebare bună, voi verifica asta.",
+         "eng":"That’s a good question, I’II check this."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":313,
+      "fields":{
+         "rom":"Mă tem. N-am idee.",
+         "eng":"I’m afraid. I’ve no idea."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":314,
+      "fields":{
+         "rom":"Nu-mi amintesc din capul meu.",
+         "eng":"I can’t remember off the top of my head."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":315,
+      "fields":{
+         "rom":"Nu am nicio informație despre asta.",
+         "eng":"I don’t have any information about that."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":316,
+      "fields":{
+         "rom":"Exact asta caut sa raspund.",
+         "eng":"That’s exactly what I’m seeking to answer."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":317,
+      "fields":{
+         "rom":"Cine ştie?",
+         "eng":"Who knows?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":318,
+      "fields":{
+         "rom":"Lasă-mă să verific asta.",
+         "eng":"Let me check on that."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":319,
+      "fields":{
+         "rom":"Nu sunt 00% sigur de asta.",
+         "eng":"I’m not 00% sure on that."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":320,
+      "fields":{
+         "rom":"Am să verific din nou și te voi anunța.",
+         "eng":"I’II double check and let you know."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":321,
+      "fields":{
+         "rom":"Asta e ok.",
+         "eng":"That’s OK."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":322,
+      "fields":{
+         "rom":"Nu te-ai putut abține.",
+         "eng":"You couldn’t help it."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":323,
+      "fields":{
+         "rom":"Uita de asta.",
+         "eng":"Forget about it."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":324,
+      "fields":{
+         "rom":"Nu vă faceți griji.",
+         "eng":"Don’t worry about it."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":325,
+      "fields":{
+         "rom":"E bine.",
+         "eng":"That’s all right."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":326,
+      "fields":{
+         "rom":"Nu contează.",
+         "eng":"It doesn’t matter."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":327,
+      "fields":{
+         "rom":"Nu vă faceți griji. Esti iertat!",
+         "eng":"Don’t worry. You’re forgiven!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":328,
+      "fields":{
+         "rom":"E bine.",
+         "eng":"It’s ok."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":329,
+      "fields":{
+         "rom":"Nu e nevoie sa…",
+         "eng":"No need to…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":330,
+      "fields":{
+         "rom":"Nici un rău făcut.",
+         "eng":"No harm done."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":331,
+      "fields":{
+         "rom":"Nu vă cereți scuze.",
+         "eng":"Don’t apologize."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":332,
+      "fields":{
+         "rom":"Nu contează.",
+         "eng":"Never mind."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":333,
+      "fields":{
+         "rom":"Nu este nevoie. E în regulă.",
+         "eng":"There’s no need to. It’s all right."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":334,
+      "fields":{
+         "rom":"Nu contează. înțeleg destul de bine.",
+         "eng":"Never mind. I quite understand."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":335,
+      "fields":{
+         "rom":"Uita de asta. Am înțeles.",
+         "eng":"Forget about it. I understand."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":336,
+      "fields":{
+         "rom":"Nu e nevoie. E bine.",
+         "eng":"There is no need. It’s ok."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":337,
+      "fields":{
+         "rom":"Scuzați-mă?",
+         "eng":"Excuse me?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":338,
+      "fields":{
+         "rom":"Te superi să repeți asta?",
+         "eng":"Do you mind repeating that?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":339,
+      "fields":{
+         "rom":"Scuze, nu am auzit ce ai spus.",
+         "eng":"Sorry, I didn’t hear what you said."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":340,
+      "fields":{
+         "rom":"Scuze, nu am prins asta.",
+         "eng":"Sorry, I didn’t catch that."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":341,
+      "fields":{
+         "rom":"Ai putea te rog repeta asta?",
+         "eng":"Could you pleasse repeat that?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":342,
+      "fields":{
+         "rom":"Te-ai deranja să repeți asta?",
+         "eng":"Would you mind repeating that?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":343,
+      "fields":{
+         "rom":"Pardon?",
+         "eng":"Pardon?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":344,
+      "fields":{
+         "rom":"Îmi pare rău",
+         "eng":"Sorry"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":345,
+      "fields":{
+         "rom":"imi pare rau, nu inteleg. Poţi să repeţi, te rog?",
+         "eng":"I’m sorry, I don’t understand. Could you repeat that, please?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":346,
+      "fields":{
+         "rom":"Lasă-mă să repet asta doar ca să mă asigur?",
+         "eng":"Let me repeat that just to make sure?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":347,
+      "fields":{
+         "rom":"Mi-e foame ca un lup!",
+         "eng":"I’m hungry as a wolf!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":348,
+      "fields":{
+         "rom":"Mi-e foame ca un urs!",
+         "eng":"I’m hungry as a bear!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":349,
+      "fields":{
+         "rom":"Foamete",
+         "eng":"Famishing"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":350,
+      "fields":{
+         "rom":"Lumină zburătoare",
+         "eng":"Flying light"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":351,
+      "fields":{
+         "rom":"Am mâncare",
+         "eng":"Got the munchies"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":352,
+      "fields":{
+         "rom":"Dor",
+         "eng":"Hankering"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":353,
+      "fields":{
+         "rom":"Burta îmi vorbește.",
+         "eng":"My tummy is talking to me."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":354,
+      "fields":{
+         "rom":"Mi-e nenorocit de foame!",
+         "eng":"I’m freaking hungry!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":355,
+      "fields":{
+         "rom":"Dornic",
+         "eng":"Eager"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":356,
+      "fields":{
+         "rom":"Lacom",
+         "eng":"Greedy"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":357,
+      "fields":{
+         "rom":"Pasionat",
+         "eng":"Keen"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":358,
+      "fields":{
+         "rom":"Vorace",
+         "eng":"Ravenous"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":359,
+      "fields":{
+         "rom":"Înfometat",
+         "eng":"Starved"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":360,
+      "fields":{
+         "rom":"înfometat",
+         "eng":"Famished"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":361,
+      "fields":{
+         "rom":"Porcos",
+         "eng":"Hoggish"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":362,
+      "fields":{
+         "rom":"Gol",
+         "eng":"Hollow"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":363,
+      "fields":{
+         "rom":"Mi-e atât de foame încât aș putea mânca un cal scos.",
+         "eng":"I’m so hungry I could eat a scabby horse."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":364,
+      "fields":{
+         "rom":"Buna dimineata raza de soare!",
+         "eng":"Good morning, sunshine!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":365,
+      "fields":{
+         "rom":"Dimineata, prietene! (Masculin)",
+         "eng":"Mornin’ mi Amigo! (Male)"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":366,
+      "fields":{
+         "rom":"Dimineata, prietene! (Femeie)",
+         "eng":"Mornin’ mi Amiga! (Female)"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":367,
+      "fields":{
+         "rom":"Buna dimineata, arata bine!",
+         "eng":"Morning, good looking!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":368,
+      "fields":{
+         "rom":"Ridicate si straluceste!",
+         "eng":"Rise and shine!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":369,
+      "fields":{
+         "rom":"Dimineaţă!",
+         "eng":"Morning!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":370,
+      "fields":{
+         "rom":"treaz-treaz!",
+         "eng":"Wakey-wakey!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":371,
+      "fields":{
+         "rom":"O zi buna!",
+         "eng":"Good day to you!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":372,
+      "fields":{
+         "rom":"Buna dimineata, frumoasa adormita!",
+         "eng":"Good morning, Sleeping beauty!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":373,
+      "fields":{
+         "rom":"Îmi cer scuze pentru…",
+         "eng":"I do apologize for…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":374,
+      "fields":{
+         "rom":"Trebuie să-mi cer scuze pentru...",
+         "eng":"I must apologize for…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":375,
+      "fields":{
+         "rom":"Vă rog, acceptați scuzele mele pentru...",
+         "eng":"Please, accept my apologies for…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":376,
+      "fields":{
+         "rom":"Îmi cer scuze pentru…",
+         "eng":"I apologize for…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":377,
+      "fields":{
+         "rom":"Te rog, iartă-mă pentru…",
+         "eng":"Please, forgive me for my…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":378,
+      "fields":{
+         "rom":"Aș vrea să-mi cer scuze pentru...",
+         "eng":"I’d like to apologize for…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":379,
+      "fields":{
+         "rom":"Iertați-mă pentru asta…",
+         "eng":"Pardon me for this…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":380,
+      "fields":{
+         "rom":"îmi pare atât de rău pentru…",
+         "eng":"I am so sorry for…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":381,
+      "fields":{
+         "rom":"imi pare teribil de rau pentru...",
+         "eng":"I’m terribly sorry for…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":382,
+      "fields":{
+         "rom":"nu ar fi trebuit…",
+         "eng":"I shouldn’t have…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":383,
+      "fields":{
+         "rom":"Scuzati-ma pentru…",
+         "eng":"Excuse me for…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":384,
+      "fields":{
+         "rom":"Este vina mea.",
+         "eng":"It’s all my fault."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":385,
+      "fields":{
+         "rom":"Te rog, iartă-mă pentru...",
+         "eng":"Please, forgive me for…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":386,
+      "fields":{
+         "rom":"mi-e rusine de...",
+         "eng":"I’m ashamed of…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":387,
+      "fields":{
+         "rom":"Chiar îmi este rușine de ceea ce am făcut.",
+         "eng":"I’m really ashamed of what I did."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":388,
+      "fields":{
+         "rom":"Îmi pare foarte rău pentru ceea ce am spus.",
+         "eng":"I’m really sorry about what I said."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":389,
+      "fields":{
+         "rom":"A fost nepoliticos din partea mea. Imi pare rau.",
+         "eng":"That was rude of me. I’m sorry."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":390,
+      "fields":{
+         "rom":"Sper că mă vei ierta pentru...",
+         "eng":"I hope you’ll forgive me for…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":391,
+      "fields":{
+         "rom":"Nu e nevoie sa…",
+         "eng":"No need to…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":392,
+      "fields":{
+         "rom":"Nici un rău făcut.",
+         "eng":"No harm done."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":393,
+      "fields":{
+         "rom":"Nu vă cereți scuze.",
+         "eng":"Don’t apologize."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":394,
+      "fields":{
+         "rom":"Nu contează.",
+         "eng":"Never mind."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":395,
+      "fields":{
+         "rom":"E bine.",
+         "eng":"It’s ok."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":396,
+      "fields":{
+         "rom":"Pentru puțin.",
+         "eng":"Don’t mention it."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":397,
+      "fields":{
+         "rom":"Asta e ok.",
+         "eng":"That’s OK."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":398,
+      "fields":{
+         "rom":"înțeleg destul de bine.",
+         "eng":"I quite understand."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":399,
+      "fields":{
+         "rom":"Nu te-ai putut abține.",
+         "eng":"You couldn’t help it."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":400,
+      "fields":{
+         "rom":"Uita de asta.",
+         "eng":"Forget about it."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":401,
+      "fields":{
+         "rom":"Nu vă faceți griji.",
+         "eng":"Don’t worry about it."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":402,
+      "fields":{
+         "rom":"E bine.",
+         "eng":"That’s all right."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":403,
+      "fields":{
+         "rom":"Nu contează.",
+         "eng":"It doesn’t matter."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":404,
+      "fields":{
+         "rom":"Nu vă faceți griji. Esti iertat!",
+         "eng":"Don’t worry. You’re forgiven!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":405,
+      "fields":{
+         "rom":"Nu este nevoie. E în regulă.",
+         "eng":"There’s no need to. It’s all right."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":406,
+      "fields":{
+         "rom":"Nu contează. înțeleg destul de bine.",
+         "eng":"Never mind. I quite understand."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":407,
+      "fields":{
+         "rom":"Uita de asta. Am înțeles.",
+         "eng":"Forget about it. I understand."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":408,
+      "fields":{
+         "rom":"Nu e nevoie. E bine.",
+         "eng":"There is no need. It’s ok."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":409,
+      "fields":{
+         "rom":"Nu este posibil.",
+         "eng":"Not possible."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":410,
+      "fields":{
+         "rom":"In nici un caz.",
+         "eng":"By no means."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":411,
+      "fields":{
+         "rom":"sunt trântit.",
+         "eng":"I’m slammed."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":412,
+      "fields":{
+         "rom":"Nu pentru mine, mulțumesc.",
+         "eng":"Not for me, thanks."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":413,
+      "fields":{
+         "rom":"Din păcate, asta nu este ceva ce pot face în acest moment.",
+         "eng":"Unfortunately, that’s not something I can do at this time."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":414,
+      "fields":{
+         "rom":"Sunt cu adevărat rezervat.",
+         "eng":"I’m really booked."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":415,
+      "fields":{
+         "rom":"Mulțumesc că te-ai gândit la mine. Chiar mi-aș dori să pot.",
+         "eng":"Thanks for thinking of me. I really wish I could."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":416,
+      "fields":{
+         "rom":"Asta nu este o opțiune.",
+         "eng":"That’s not an option."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":417,
+      "fields":{
+         "rom":"Acest lucru nu este negociabil.",
+         "eng":"This is not negotiable."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":418,
+      "fields":{
+         "rom":"Nu cred.",
+         "eng":"I think not."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":419,
+      "fields":{
+         "rom":"Dacă ar funcționa, dar...",
+         "eng":"If only it worked, but …"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":420,
+      "fields":{
+         "rom":"Nu pentru mine, prietene, mulțumesc.",
+         "eng":"Not for me my friend, thanks."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":421,
+      "fields":{
+         "rom":"Mai am ceva.",
+         "eng":"I have something else."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":422,
+      "fields":{
+         "rom":"Mi-ar plăcea, dar știu că o să regret.",
+         "eng":"I’d like to, but I know I’II regret it."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":423,
+      "fields":{
+         "rom":"Apreciez foarte mult că mă întrebi, dar nu pot.",
+         "eng":"I really appreciate you asking me, bu t I can’t do it."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":424,
+      "fields":{
+         "rom":"Apreciez foarte mult că mă întrebi, dar nu mă pot dedica acum.",
+         "eng":"I really appreciate you asking me but I can’t commit to that right now."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":425,
+      "fields":{
+         "rom":"Nu multumesc.",
+         "eng":"No, thanks."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":426,
+      "fields":{
+         "rom":"Mulțumesc că te-ai gândit la mine, dar nu pot",
+         "eng":"Thanks for thinking of me but I can’t"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":427,
+      "fields":{
+         "rom":"Din nefericire nu.",
+         "eng":"Unfortunately not."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":428,
+      "fields":{
+         "rom":"Mi-e teamă că nu pot.",
+         "eng":"I’m afraid I can’t."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":429,
+      "fields":{
+         "rom":"Poate altă dată.",
+         "eng":"Maybe another time."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":430,
+      "fields":{
+         "rom":"Îmi pare rău sunt ocupat.",
+         "eng":"I’m sorry I’m busy."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":431,
+      "fields":{
+         "rom":"Asta nu va funcționa pentru mine.",
+         "eng":"That’s not going to work for me."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":432,
+      "fields":{
+         "rom":"Poate data viitoare.",
+         "eng":"Maybe next time."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":433,
+      "fields":{
+         "rom":"Mi-ar plăcea - dar nu pot.",
+         "eng":"I’d love to – but can’t."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":434,
+      "fields":{
+         "rom":"Corpul meu spune da, dar inima mea spune nu.",
+         "eng":"My body say yes, but my heart say no."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":435,
+      "fields":{
+         "rom":"Asta nu merge la mine.",
+         "eng":"That doesn’t work for me."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":436,
+      "fields":{
+         "rom":"Mi-aș dori să pot face să funcționeze.",
+         "eng":"I wish I could make it work."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":437,
+      "fields":{
+         "rom":"Sunt onorat că m-ai întrebat, dar nu pot.",
+         "eng":"I am honoured that you asked me but I can’t do it."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":438,
+      "fields":{
+         "rom":"Sună tentant, dar trebuie să trec.",
+         "eng":"Sounds tempting, but I’II have to pass."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":439,
+      "fields":{
+         "rom":"Adio",
+         "eng":"Adios"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":440,
+      "fields":{
+         "rom":"Pa acum",
+         "eng":"Bye now"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":441,
+      "fields":{
+         "rom":"Pa! Pa",
+         "eng":"Bye-bye"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":442,
+      "fields":{
+         "rom":"Ia-o usor",
+         "eng":"Take it easy"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":443,
+      "fields":{
+         "rom":"Buna ziua",
+         "eng":"Aloha"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":444,
+      "fields":{
+         "rom":"Cheerio",
+         "eng":"Cheerio"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":445,
+      "fields":{
+         "rom":"am plecat",
+         "eng":"I’m off"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":446,
+      "fields":{
+         "rom":"Trebuie să plec!",
+         "eng":"Gotta go!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":447,
+      "fields":{
+         "rom":"Noapte bună",
+         "eng":"Good night"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":448,
+      "fields":{
+         "rom":"Trebuie să decol",
+         "eng":"I gotta take off"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":449,
+      "fields":{
+         "rom":"Vorbim mai tarziu",
+         "eng":"Talk to you later"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":450,
+      "fields":{
+         "rom":"Păstrăm legătura",
+         "eng":"Keep in touch"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":451,
+      "fields":{
+         "rom":"Mă bucur să te cunosc",
+         "eng":"Lovely to meet you"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":452,
+      "fields":{
+         "rom":"Pace!",
+         "eng":"Peace!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":453,
+      "fields":{
+         "rom":"Da oh!",
+         "eng":"See ya!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":454,
+      "fields":{
+         "rom":"Te prind mai tarziu",
+         "eng":"Catch you later"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":455,
+      "fields":{
+         "rom":"Sa ai unul bun",
+         "eng":"Have a good one"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":456,
+      "fields":{
+         "rom":"Ne mai vedem!",
+         "eng":"Be seeing you!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":457,
+      "fields":{
+         "rom":"De ce nu?",
+         "eng":"Why not?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":458,
+      "fields":{
+         "rom":"Sclipitor!",
+         "eng":"Brilliant!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":459,
+      "fields":{
+         "rom":"Uh-huh",
+         "eng":"Uh-huh"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":460,
+      "fields":{
+         "rom":"De bunăvoie",
+         "eng":"Willingly"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":461,
+      "fields":{
+         "rom":"Sigur ca pot!",
+         "eng":"Sure I can!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":462,
+      "fields":{
+         "rom":"Rece!",
+         "eng":"Cool!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":463,
+      "fields":{
+         "rom":"Nici o problemă",
+         "eng":"No problem"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":464,
+      "fields":{
+         "rom":"Da ce este?",
+         "eng":"Yes, what is it?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":465,
+      "fields":{
+         "rom":"Exact!",
+         "eng":"Exactly!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":466,
+      "fields":{
+         "rom":"Absolut",
+         "eng":"Absolutely"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":467,
+      "fields":{
+         "rom":"Pariezi",
+         "eng":"You bet"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":468,
+      "fields":{
+         "rom":"Bun!",
+         "eng":"Good!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":469,
+      "fields":{
+         "rom":"Fara indoiala!",
+         "eng":"Undoubtly!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":470,
+      "fields":{
+         "rom":"Va trebui!",
+         "eng":"I shall!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":471,
+      "fields":{
+         "rom":"Si!",
+         "eng":"Si!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":472,
+      "fields":{
+         "rom":"Cum doriți!",
+         "eng":"As you wish!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":473,
+      "fields":{
+         "rom":"Permisiunea acordată!",
+         "eng":"Permission granted!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":474,
+      "fields":{
+         "rom":"Da, ce pot face pentru tine?",
+         "eng":"Yes, what can I dofor you?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":475,
+      "fields":{
+         "rom":"Exact!",
+         "eng":"Precisely!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":476,
+      "fields":{
+         "rom":"Sa ai o zi de nastere fabuloasa!",
+         "eng":"Have a fabulous birthday!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":477,
+      "fields":{
+         "rom":"Sper să aveți o zi fantastică.",
+         "eng":"I hope you have a fantastic day."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":478,
+      "fields":{
+         "rom":"Sa ai unul grozav!",
+         "eng":"Have a great one!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":479,
+      "fields":{
+         "rom":"Vă doresc mai multe lumânări de suflat.",
+         "eng":"Wishin you many more candles to blow."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":480,
+      "fields":{
+         "rom":"Multe reveniri fericite ale zilei!",
+         "eng":"Many happy returns of the day!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":481,
+      "fields":{
+         "rom":"Toate cele bune în ziua ta specială!",
+         "eng":"All the best on your special day!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":482,
+      "fields":{
+         "rom":"Multe reveniri fericite!",
+         "eng":"Many happy returns!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":483,
+      "fields":{
+         "rom":"Îți doresc o zi de naștere minunată!",
+         "eng":"I wish you a wonderful birthday!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":484,
+      "fields":{
+         "rom":"Sa ai una buna!",
+         "eng":"Have a good one!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":485,
+      "fields":{
+         "rom":"Fie ca ziua ta să fie plină de râsete!",
+         "eng":"May you birthday be filled with laughter!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":486,
+      "fields":{
+         "rom":"Îți doresc toate cele bune în ziua ta specială.",
+         "eng":"I wish you all the best on your special day."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":487,
+      "fields":{
+         "rom":"Sper să aveți o zi fantastică și un an fantastic care urmează.",
+         "eng":"I hope you have a fantastic day and a fantastic year to come."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":488,
+      "fields":{
+         "rom":"Vă doresc o zi minunata!",
+         "eng":"I wish you a wonderful day!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":489,
+      "fields":{
+         "rom":"Îți doresc o zi la fel de specială ca tine!",
+         "eng":"Wishing you a day that is as special as you are!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":490,
+      "fields":{
+         "rom":"Felicitări pentru încă un an de evaziune iscusită a morții!",
+         "eng":"Congratulations on another year of skillful death evasion!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":491,
+      "fields":{
+         "rom":"Sper să aveți o zi de naștere plăcută! O meriți.",
+         "eng":"Hope you have an enjoyable birthday! You deserve it."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":492,
+      "fields":{
+         "rom":"Ce mai e nou?",
+         "eng":"What’s new?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":493,
+      "fields":{
+         "rom":"Cum stă treaba?",
+         "eng":"How’s it going?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":494,
+      "fields":{
+         "rom":"Cum e totul?",
+         "eng":"How’s everything?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":495,
+      "fields":{
+         "rom":"Cum e viata?",
+         "eng":"How’s life?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":496,
+      "fields":{
+         "rom":"Ce se întâmplă?",
+         "eng":"What’sgoing on?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":497,
+      "fields":{
+         "rom":"Ce se întâmplă?",
+         "eng":"What’s happening?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":498,
+      "fields":{
+         "rom":"Ce mai faceţi?",
+         "eng":"How do you do?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":499,
+      "fields":{
+         "rom":"Ce aveți de gând să faceți?",
+         "eng":"What are you up to?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":500,
+      "fields":{
+         "rom":"Ce mai faci?",
+         "eng":"How are you doing?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":501,
+      "fields":{
+         "rom":"Cum reziști?",
+         "eng":"How are you holding up?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":502,
+      "fields":{
+         "rom":"ce?",
+         "eng":"Whassup?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":503,
+      "fields":{
+         "rom":"Cum merg lucrurile?",
+         "eng":"How are things going?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":504,
+      "fields":{
+         "rom":"Cum ai fost?",
+         "eng":"How are you been?"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":505,
+      "fields":{
+         "rom":"nu sunt interesat de asta.",
+         "eng":"I’m not into it."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":506,
+      "fields":{
+         "rom":"nu pot suporta.",
+         "eng":"I can’t stand it."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":507,
+      "fields":{
+         "rom":"Nu-mi place.",
+         "eng":"I hate it."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":508,
+      "fields":{
+         "rom":"Nu sunt un mare fan al ei.",
+         "eng":"I’m not a big fan of it."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":509,
+      "fields":{
+         "rom":"M-am săturat.",
+         "eng":"I’ve had enough."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":510,
+      "fields":{
+         "rom":"nu sunt nebun pentru asta.",
+         "eng":"I’m not crazy about it."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":511,
+      "fields":{
+         "rom":"îl detest.",
+         "eng":"I loathe it."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":512,
+      "fields":{
+         "rom":"M-am săturat de asta.",
+         "eng":"I am sick of it."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":513,
+      "fields":{
+         "rom":"nu apreciez.",
+         "eng":"I don’t appreciate it."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":514,
+      "fields":{
+         "rom":"nu prea imi place.",
+         "eng":"I’m not really fond of it."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":515,
+      "fields":{
+         "rom":"voi trece.",
+         "eng":"I’II pass."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":516,
+      "fields":{
+         "rom":"Nu sunt pasionat de asta.",
+         "eng":"I am not passionate about it."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":517,
+      "fields":{
+         "rom":"Nu sunt pasionat de asta.",
+         "eng":"I am not keen on it."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":518,
+      "fields":{
+         "rom":"Asta nu este pentru mine.",
+         "eng":"That’s not for me."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":519,
+      "fields":{
+         "rom":"Nu sunt un mare fan al ei.",
+         "eng":"I am not a big fan of it."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":520,
+      "fields":{
+         "rom":"Asta nu e treaba mea.",
+         "eng":"That’s not my thing."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":521,
+      "fields":{
+         "rom":"sunt dezinteresat de asta.",
+         "eng":"I’m disinterested in that."
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":522,
+      "fields":{
+         "rom":"Doamne, binevoiește-mă!",
+         "eng":"Goodness gracious me!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":523,
+      "fields":{
+         "rom":"Vai!",
+         "eng":"Oh my!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":524,
+      "fields":{
+         "rom":"Sfânta Moly",
+         "eng":"Holy moly"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":525,
+      "fields":{
+         "rom":"Pentru numele lui Dumnezeu!",
+         "eng":"For heaven’s sake!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":526,
+      "fields":{
+         "rom":"Dumnezeule!",
+         "eng":"Oh Jesus!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":527,
+      "fields":{
+         "rom":"Doamne!",
+         "eng":"Blimey!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":528,
+      "fields":{
+         "rom":"Pentru Dumnezeu!",
+         "eng":"For the love of God!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":529,
+      "fields":{
+         "rom":"Doamne atotputernic!",
+         "eng":"Gosh almighty!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":530,
+      "fields":{
+         "rom":"La naiba!",
+         "eng":"Shitting Hell!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":531,
+      "fields":{
+         "rom":"Asta e bolnav!",
+         "eng":"That is bare sick!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":532,
+      "fields":{
+         "rom":"Ceruri pentru Betsy!",
+         "eng":"Heavens to Betsy!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":533,
+      "fields":{
+         "rom":"Sfinte porcării",
+         "eng":"Holy crap"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":534,
+      "fields":{
+         "rom":"Oh, Doamne!",
+         "eng":"Oh my goodness!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":535,
+      "fields":{
+         "rom":"Oh baiete!",
+         "eng":"Oh boy!"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":536,
+      "fields":{
+         "rom":"sunt obosit",
+         "eng":"I’m weary"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":537,
+      "fields":{
+         "rom":"sunt împușcat",
+         "eng":"I’m bushed"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":538,
+      "fields":{
+         "rom":"sunt batut",
+         "eng":"I’m beat"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":539,
+      "fields":{
+         "rom":"Am terminat",
+         "eng":"I’m done"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":540,
+      "fields":{
+         "rom":"Mi-e somn",
+         "eng":"I’m sleepy"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":541,
+      "fields":{
+         "rom":"sunt cheltuit",
+         "eng":"I’m spent"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":542,
+      "fields":{
+         "rom":"Sunt complet obosit",
+         "eng":"I’m flat out tired"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":543,
+      "fields":{
+         "rom":"sunt obosit",
+         "eng":"I’m dead-tired"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":544,
+      "fields":{
+         "rom":"Fug de fum",
+         "eng":"I’m running on fumes"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":545,
+      "fields":{
+         "rom":"Sunt câine obosit",
+         "eng":"I’m dog tired"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":546,
+      "fields":{
+         "rom":"sunt obosit până la oase",
+         "eng":"I’m tired to the bone"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":547,
+      "fields":{
+         "rom":"sunt ciocănit",
+         "eng":"I’m knockered"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":548,
+      "fields":{
+         "rom":"sunt caca",
+         "eng":"I’m pooped"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":549,
+      "fields":{
+         "rom":"Sunt epuizat",
+         "eng":"I’m exhausted"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":550,
+      "fields":{
+         "rom":"sunt obosit",
+         "eng":"I’m worn out"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":551,
+      "fields":{
+         "rom":"Sunt mort pe picioare",
+         "eng":"I’m dead on my feet"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":552,
+      "fields":{
+         "rom":"trag",
+         "eng":"I’m dragging"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":553,
+      "fields":{
+         "rom":"Fug pe gol",
+         "eng":"I’m running on empty"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":554,
+      "fields":{
+         "rom":"Și anume",
+         "eng":"Namely"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":555,
+      "fields":{
+         "rom":"Pentru a ilustra",
+         "eng":"To illustrate"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":556,
+      "fields":{
+         "rom":"De exemplu",
+         "eng":"For instance"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":557,
+      "fields":{
+         "rom":"În plus",
+         "eng":"Additionally"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":558,
+      "fields":{
+         "rom":"ca",
+         "eng":"like"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":559,
+      "fields":{
+         "rom":"Un exemplu este…",
+         "eng":"One example is…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":560,
+      "fields":{
+         "rom":"Ca un caz concret",
+         "eng":"As a case in point"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":561,
+      "fields":{
+         "rom":"Ca exemplu",
+         "eng":"As an example"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":562,
+      "fields":{
+         "rom":"Ca",
+         "eng":"Such as"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":563,
+      "fields":{
+         "rom":"Mai ales",
+         "eng":"Especially"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":564,
+      "fields":{
+         "rom":"Într-un caz similar",
+         "eng":"In a similar case"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":565,
+      "fields":{
+         "rom":"De asemenea",
+         "eng":"Also"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":566,
+      "fields":{
+         "rom":"Pe lângă",
+         "eng":"In addition to"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":567,
+      "fields":{
+         "rom":"Cu titlu de ilustrare",
+         "eng":"By way of illustration"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":568,
+      "fields":{
+         "rom":"De asemenea",
+         "eng":"Likewise"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":569,
+      "fields":{
+         "rom":"Observați bine",
+         "eng":"Note well"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":570,
+      "fields":{
+         "rom":"Ca exemplu fiind…",
+         "eng":"As an example being…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":571,
+      "fields":{
+         "rom":"În special",
+         "eng":"In particular"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":572,
+      "fields":{
+         "rom":"Sa spunem…",
+         "eng":"Let’s say…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":573,
+      "fields":{
+         "rom":"Așa cum se vede în…",
+         "eng":"As seen in…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":574,
+      "fields":{
+         "rom":"Aceasta este ilustrată…",
+         "eng":"This is illustrated…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":575,
+      "fields":{
+         "rom":"Acestea includ…",
+         "eng":"Thse include…"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":576,
+      "fields":{
+         "rom":"În special",
+         "eng":"Particularly"
+      }
+   },
+   {
+      "model":"agency.WayToSay",
+      "pk":577,
+      "fields":{
+         "rom":"Nota bine…",
+         "eng":"Note well…"
+      }
+   }
+]
